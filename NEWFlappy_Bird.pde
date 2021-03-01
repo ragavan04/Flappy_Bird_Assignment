@@ -1,11 +1,12 @@
 /*
 What my program does: 
  This program is a replica flappy bird game. The user will start off the game on the starting screen, on this screen they will click the "Start game" button. 
- By clicking this button they will be brought to the actual game. They can control the bird and guide it through the green zone and avoid hitting the red zone. If they hit the red zone, the game
- is over and they will be brought to the game over screen. On this screen they can click the "Restart" button to try again. Each time the user sucesfully passes through a tube, the score board will be
- updated and incremented by 1. When the score reaches 5, a bouncing power up will appear. This is a yellow rectangle that will bounce around the screen while the score if 5. If the power up is caught by
- the user, then 2 points will be added to their score. However if they dont catch it in time, the power up will disappear. When the score reaches 10, a second bird will appear. The user will control
- this second bird with the 'n' key on the keyboard. The user must guide both bird 1 and bird 2 simultaneously through the safe zones.
+ By clicking this button they will be brought to the actual game. They can control the bird and guide it through the green zone and avoid hitting the red zone.
+ If they hit the red zone, the game is over and they will be brought to the game over screen. On this screen they can click the "Restart" button to try again. 
+ Each time the user sucesfully passes through a tube, the score board will be updated and incremented by 1. When the score reaches 5, a bouncing power up will appear.
+ This is a yellow rectangle that will bounce around the screen while the score if 5. If the power up is caught by the user, then 2 points will be added to their score.
+ However if they dont catch it in time, the power up will disappear. When the score reaches 10, a second bird will appear. The user will control this second bird with
+ the 'n' key on the keyboard. The user must guide both bird 1 and bird 2 simultaneously through the safe zones.
  
  What additional elements does my program have:
  - Scoreboard 
@@ -14,7 +15,6 @@ What my program does:
  - Buttons
  - Power up (bounces around the screen)
  - 2 bird appear when score reaches 10
- 
  
  */
 
